@@ -1,6 +1,6 @@
 /*
  * jQuery The Final Countdown plugin v1.0.0
- * http://github.com/hilios/jquery.countdown
+ * //github.com/hilios/jquery.countdown
  *
  * Copyright (c) 2011 Edson Hilios
  *
